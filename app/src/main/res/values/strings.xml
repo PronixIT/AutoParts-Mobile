@@ -1,0 +1,159 @@
+<resources>
+    <string name="app_name">AutoParts</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="search">Search</string>
+
+
+    <string-array name="bmw">
+        <item>BMW 3 Series</item>
+        <item>BMW 4 Series</item>
+        <item>BMW 5 Series</item>
+        <item>BMW 6 Series</item>
+        <item>BMW 7 Series</item>
+        <item>BMW X1</item>
+        <item>BMW X3</item>
+        <item>BMW X5</item>
+        <item>BMW X6</item>
+        <item>BMW I8</item>
+        <item>BMW Z4</item>
+    </string-array>
+
+    <string-array name="datsun">
+        <item>Datsun Go</item>
+        <item>Datsun Go+</item>
+        <item>Datsun Redi Go</item>
+    </string-array>
+
+    <string-array name="jeep">
+        <item>Jeep Wrangler</item>
+        <item>Jeep Compass</item>
+        <item>Jeep Grand Chrokee</item>
+    </string-array>
+
+    <string-array name="audi">
+        <item>Audi A3</item>
+        <item>Audi A4</item>
+        <item>Audi A5</item>
+        <item>Audi A6</item>
+        <item>Audi TT</item>
+        <item>Audi Q3</item>
+        <item>Audi Q4</item>
+        <item>Audi Q5</item>
+        <item>Audi Q6</item>
+        <item>Audi Q7</item>
+        <item>Audi R8</item>
+        <item>Audi RS-7 Sports</item>
+    </string-array>
+
+    <string-array name="hyundai">
+        <item>Hyundai Tucson</item>
+        <item>Hyundai Elentra</item>
+        <item>Hyundai Creata</item>
+        <item>Hyundai Eon</item>
+        <item>Hyundai Xcent</item>
+        <item>Hyundai Grand i10</item>
+        <item>Hyundai i20 Active</item>
+        <item>Hyundai Elite i20</item>
+        <item>Hyundai Verna</item>
+    </string-array>
+
+    <string-array name="honda">
+        <item>Honda CR-V</item>
+        <item>Honda Accord</item>
+        <item>Honda Jazz</item>
+        <item>Honda BR-V</item>
+        <item>Honda City</item>
+        <item>Honda WR-V</item>
+        <item>Honda Brio</item>
+        <item>Honda Amaze</item>
+    </string-array>
+
+    <string-array name="honda_bikes">
+        <item>Honda Activa</item>
+        <item>Honda Shine</item>
+        <item>Honda Unicorn</item>
+        <item>Honda Trigger</item>
+        <item>Honda Liva</item>
+        <item>Honda Aviator</item>
+        <item>Honda CBR</item>
+    </string-array>
+
+    <string-array name="nissan">
+        <item>Nissan GT-R</item>
+        <item>Nissan X-Trail</item>
+        <item>Nissan Micra</item>
+        <item>Nissan Sunny</item>
+        <item>Nissan Terrano</item>
+        <item>Nissan Micra Active</item>
+    </string-array>
+
+    <string-array name="toyota">
+        <item>Toyota Canry</item>
+        <item>Toyota Prius</item>
+        <item>Toyota Fortuner</item>
+        <item>Toyota Etios</item>
+        <item>Toyota Innova Crysta</item>
+        <item>Toyota Etios Liva</item>
+        <item>Toyota Etios Cross</item>
+        <item>Toyota Platinum Etios</item>
+    </string-array>
+
+    <string-array name="hero">
+        <item>Hero Splender</item>
+        <item>Hero Passion</item>
+        <item>Hero Glamour</item>
+        <item>Hero Karisma</item>
+        <item>Hero Ignitor</item>
+        <item>Hero HF Deluxe</item>
+    </string-array>
+
+    <string-array name="count">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+
+    <string-array name="make">
+        <item>HERO</item>
+        <item>AUDI</item>
+        <item>BMW</item>
+        <item>DATSUN</item>
+        <item>HONDA</item>
+        <item>HONDA BIKES</item>
+        <item>HYUNDAI</item>
+        <item>JEEP</item>
+        <item>NISSAN</item>
+        <item>TOYOTA</item>
+    </string-array>
+
+
+    <string-array name="items">
+        <item>Toyota Canry</item>
+        <item>Toyota Prius</item>
+        <item>Toyota Fortuner</item>
+        <item>Toyota Etios</item>
+        <item>Toyota Innova Crysta</item>
+        <item>Toyota Etios Liva</item>
+        <item>Toyota Etios Cross</item>
+        <item>Toyota Platinum Etios</item>
+        <item>Nissan GT-R</item>
+        <item>Nissan X-Trail</item>
+        <item>Nissan Micra</item>
+        <item>Nissan Sunny</item>
+        <item>Nissan Terrano</item>
+        <item>Nissan Micra Active</item>
+    </string-array>
+
+    <string name="title_activity_orders">OrdersActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
